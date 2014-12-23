@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ben.tugastebakgambar"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MarimakanActivity"
+            android:label="@string/title_activity_marimakan" >
+        </activity>
+        <activity
+            android:name=".Tahi_lalatActivity"
+            android:label="@string/title_activity_tahi_lalat" >
+        </activity>
+        <activity
+            android:name=".Rekening_gendutActivity"
+            android:label="@string/title_activity_rekening_gendut" >
+        </activity>
+        <activity
+            android:name=".Sedot_upilActivity"
+            android:label="@string/title_activity_sedot_upil" >
+        </activity>
+        <activity
+            android:name=".CuacaActivity"
+            android:label="@string/title_activity_cuaca" >
+        </activity>
+        <activity
+            android:name=".Pil_cinaActivity"
+            android:label="@string/title_activity_pil_cina" >
+        </activity>
+        <activity
+            android:name=".Iga_bakarActivity"
+            android:label="@string/title_activity_iga_bakar" >
+        </activity>
+        <activity
+            android:name=".Datang_bulanActivity"
+            android:label="@string/title_activity_datang_bulan" >
+        </activity>
+        <activity
+            android:name=".Keong_racunActivity"
+            android:label="@string/title_activity_keong_racun" >
+        </activity>
+        <activity
+            android:name=".SelamatActivity"
+            android:label="@string/title_activity_selamat" >
+        </activity>
+    </application>
+
+</manifest>

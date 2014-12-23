@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TugasTebakGambar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_marimakan">MarimakanActivity</string>
+    <string name="title_activity_tahi_lalat">Tahi_lalatActivity</string>
+    <string name="title_activity_rekening_gendut">Rekening_gendutActivity</string>
+    <string name="title_activity_sedot_upil">Sedot_upilActivity</string>
+    <string name="title_activity_cuaca">CuacaActivity</string>
+    <string name="title_activity_pil_cina">Pil_cinaActivity</string>
+    <string name="title_activity_iga_bakar">Iga_bakarActivity</string>
+    <string name="title_activity_datang_bulan">Datang_bulanActivity</string>
+    <string name="title_activity_keong_racun">Keong_racunActivity</string>
+    <string name="title_activity_selamat">SelamatActivity</string>
+
+</resources>
